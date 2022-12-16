@@ -1,0 +1,22 @@
+img{
+    width: 500px;
+}
+body{
+    background-color: rgb(242, 229, 211);
+}
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 800px;
+    background-color: white;
+    border: black 1px solid;
+    padding-left: 15px;
+    border-radius: 25px;
+}
+.Benefits{
+    font-weight: bold;
+}
+
+h2{
+    font-family: 'La Belle Aurore', cursive; color: black;
+}
